@@ -11,7 +11,7 @@ size = width, height = 1024, 720
 speed = [0,0]
 
 # windows color
-black = 0, 0, 0
+black = 0, 0, 0 
 
 screen = pygame.display.set_mode(size)
 
